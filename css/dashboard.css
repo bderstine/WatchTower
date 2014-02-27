@@ -1,0 +1,41 @@
+#dash-sidebar-left{
+    float: left;
+    width: 200px;
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+#dash-main-wrapper{
+    float: left;
+    width: 625px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+#dash-main-left{
+    float: left;
+    width: 245px;
+    margin-right: 15px;
+}
+
+#dash-main-right{
+    float: left;
+}
+
+.sidebar-text{
+    font-size: 11px;
+}
+
+.header-bar{
+    background: #3366CC;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.header-bar a{
+    color: white;
+}
